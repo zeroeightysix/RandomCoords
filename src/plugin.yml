@@ -1,0 +1,5 @@
+name: RandomCoords
+main: me.zeroeightsix.randomcoords.RandomCoords
+version: 1
+author: [Mats391, 086]
+depend: [ProtocolLib]
